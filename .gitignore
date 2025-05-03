@@ -1,0 +1,10 @@
+/.bsp/
+target/
+data.csv
+hydro.csv
+wind.csv
+solả.csv
+.vscode/
+apiKey.txt
+
+
