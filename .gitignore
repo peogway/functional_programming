@@ -3,7 +3,7 @@ target/
 data.csv
 hydro.csv
 wind.csv
-solả.csv
+solar.csv
 .vscode/
 apiKey.txt
 
