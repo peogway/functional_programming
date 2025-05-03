@@ -1821,3 +1821,5 @@ WARNING: Unmatched cancel notification for request id 6579
 2025.05.03 17:43:21 INFO  no build target found for C:\Users\duchu\Fp_project\MyScalaProject\reps\src\main\scala\example\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
 2025.05.03 17:43:22 WARN  no build target for: C:\Users\duchu\Fp_project\MyScalaProject\reps\src\main\scala\example\Main.scala
 2025.05.03 17:43:22 INFO  no build target found for C:\Users\duchu\Fp_project\MyScalaProject\reps\src\main\scala\example\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 03, 2025 6:00:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
